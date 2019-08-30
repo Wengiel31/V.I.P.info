@@ -8,4 +8,4 @@ CS:GO plugin created for CS.Rozdzielacz
 
 ## Instalation:
 After You've install SourceMod (and MetaMod) go to `[YOUR CS:GO SERVER DIRECTORY]/csgo/addons/sourcemod/plugins`
-and put the `V.I.P.info**.smx**` file there. That's it! You've just correctly installed V.I.P.info plugin
+and put the `V.I.P.info.smx` file there. That's it! You've just correctly installed V.I.P.info plugin
