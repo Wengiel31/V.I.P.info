@@ -2,8 +2,8 @@
 CS:GO plugin created for CS.Rozdzielacz
 
 ## Requirements:
--CS:GO server
--SourceMod
+-CS:GO server \n
+-SourceMod \n
 -MetaMod (comes with SourceMod)
 
 ## Instalation:
