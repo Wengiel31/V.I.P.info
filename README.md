@@ -3,7 +3,7 @@ CS:GO plugin created for CS.Rozdzielacz and released into the public.
 
 ## Requirements:
 -CS:GO server<br />
--<a href-"https://www.sourcemod.net/">SourceMod</a><br />
+-https://www.sourcemod.net/ - SourceMod</a><br />
 -MetaMod (comes with SourceMod)
 
 ## Configuration
